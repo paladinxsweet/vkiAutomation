@@ -11,6 +11,14 @@ Uygulama, girilen boy ve kilo bilgilerine göre VKİ'yi hesaplar ve sonucu ekran
 Ayrıca, VKİ'ye bağlı olarak kullanıcının normal kilolu, kilolu, obez veya aşırı obez olup olmadığını da belirler.
 Ayrıca, uygulama kullanıcıya bir temizleme seçeneği de sunar. Kullanıcı, girilen bilgileri temizlemek için "Temizle" düğmesini tıklayabilir ve yeni ölçümler için hazır hale gelebilir.
 
+Projenin ana özellikleri şunlardır:
+
+- Kullanıcılar boy ve kilo bilgilerini girerek vücut kitle indeksini hesaplayabilirler.
+- VKI sonucuna göre kullanıcının durumu (zayıf, normal kilolu, kilolu, obez) otomatik olarak belirlenir.
+- Kullanıcılar ad, soyad, telefon ve tarih bilgilerini girerek veritabanına kaydedebilirler.
+- Veritabanındaki kayıtlar tablo şeklinde görüntülenebilir ve filtreleme özelliğiyle arama yapılabilir.
+- Kullanıcılar istedikleri kaydı seçip silebilirler.
+
 Admin girişi saglanarak verilerin tek bir kişi çatısı altında olması hedeflenmiştir!!
 ![parolahatalı](https://github.com/paladinxsweet/vkiAutomation/assets/94048854/8963f1de-3dde-442b-812f-45c6c6584334)
 ![loginScreen](https://github.com/paladinxsweet/vkiAutomation/assets/94048854/a7e5275f-33ca-4143-a46a-8fd236bec383)
